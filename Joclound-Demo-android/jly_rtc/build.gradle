@@ -39,7 +39,7 @@ dependencies {
     implementation project(':jly_logcat')
 
     if (isThunderBolt) {
-        api "com.rtc.thunder:thunderbolt:2.9.10"
+        api "com.rtc.thunder:thunderbolt:2.8.6"
     } else {
         api "com.rtc.thunder:thunder:2.8.0"
     }
