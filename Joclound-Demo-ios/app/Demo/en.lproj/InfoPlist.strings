@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  app
+
+  Created by GasparChu on 2020/6/9.
+  Copyright © 2020 GasparChu. All rights reserved.
+*/
+
+CFBundleDisplayName = "Jocloud";
+
+// Home
+"聚联云实时音视频专家"="Professional Real-Time Streaming Services";
+"快速开始"="Quick Start";
+"使用媒体和消息SDK的基础功能快速实现视频互动"="Basic usage of media and signalling SDK";
+"跨房间连麦"="Cross-Room Video Call";
+"同房间多人连麦"="Multi-User Video Call";
+"实时视频进阶功能"="Advanced Usage of Thunderbolt";
+"横竖屏开播与缩放、屏幕共享、次要媒体信息等更多功能"="Portrail/landscape, screensharing, media extra info, etc";
+"实时音频进阶功能"="Advanced Usage of Thunder";
+"变声、伴奏、混响、录制、实时返听等更多功能"="Voice changer, accompany, reverb, record, in-ear monitor, etc";
+"实时消息服务"="Real-Time Signalling";
+"公屏消息、信令消息、聊天室管理等功能"="Room/P2P message, room/user attribute management, etc";
+"混画推流服务"="CDN Streaming";
+"推流、拉流、混画布局等功能"="Pull/push stream, picture mixing, etc";
+"本APP用于展示聚联云实时音视频的各类功能"="Sample APP to Integrate APIs of Aivacom SDKs";
+
+// Feedback
+"反馈"="Feedback";
+"请输入反馈内容"="Description";
+"请勿留空"="Mandatory";
+"联系方式"="Contact";
+"选填"="Optional";
+"提交反馈"="Submit";
+"请输入反馈内容（请勿留空）"="Description(Mandatory)";
+"联系方式（选填）"="Contact(Optional)";
+"反馈成功"="Feedback submitted";
+"反馈失败"="Feedback failed";
+
+// same channel
+"本地预览"="Preview";
+"最多6位数字"="Up to 6 digits";
+"最多8位数字"="Up to 8 digits";
+"开播"="Go Live";
+"关播"="End";
+"已成功开播"="Go live successfully";
+"进入房间失败"="Failed to join room";
+"已关播"="End live successfully";
+"退出当前场景吗?"="Logging out from current scenario?";
+"取消"="NO";
+"确定"="YES";
+"网络异常"="Network error";
+
+//cross channel
+"跨房间连麦"="Cross-Room Video Call";
+"进入房间失败"="Failed to join room";
+"已成功连麦"="1v1 video call connected";
+"申请超时"="1v1 video call request timeout";
+"连麦申请被拒"="1v1 video call rejected";
+"连麦已结束"="1v1 video call ended";
+"推流成功"="Push stream successfully";
+"推流失败，请检查推流地址或服务"="Failed to push stream. Please confirm the upstream address is correct.";
+"推流已停止"="Stop stream successfully";
+"接受"="Accept";
+"拒绝"="Reject";
+"正在等待远端用户操作"="Request time out";
+"远端用户在连麦中，请稍后再试"="Remote user is not available. Please try again later.";
+
+"本地预览"="Preview";
+"远端订阅"="Remote";
+"上行码率"="Upload";
+"下行码率"="Download";
+"音频"="A";
+"视频"="V";
+"本地UID"="Local UID";
+"本地Room ID"="Local Room ID";
+"远端UID"="Remote UID";
+"远端Room ID"="Remote Room ID";
+"连麦"="Connect";
+"取消连麦"="Disconnect";
+"推流地址"="Up-stream URL";
+"推流"="Push";
+"取消推流"="Stop";
+"请先取消连麦和停止推流"="Please end 1v1 call and stop pushing stream first";
+"请先关闭直播"="Please end live first";
+"请输入不同Room ID"="Please enter another Room ID";
+"想与你连麦"="video call with ";
+"日志"="Log";
