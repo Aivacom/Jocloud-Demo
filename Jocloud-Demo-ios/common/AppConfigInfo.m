@@ -6,8 +6,8 @@
 //
 
 #import "AppConfigInfo.h"
-
-NSString * const kAppId = @"1711983884";
+// appid: website to apply：https://docs.aivacom.com/cloud/cn/platform/console/overview/overview.html
+NSString * const kAppId = @"xxx";
 
 NSString * const kFeedbackAppId = @"AivacomAdvanceScene-iOS";
 NSString * const kFeedbackUrl = @"https://imobfeedback.yy.com/userFeedback";
